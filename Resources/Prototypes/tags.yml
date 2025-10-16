@@ -942,6 +942,9 @@
   id: LightBulb
 
 - type: Tag
+  id: Lighter
+
+- type: Tag
   id: Lime
 
 - type: Tag # goob edit
@@ -1375,8 +1378,6 @@
 - type: Tag
   id: Smokable
 
-
-
 - type: Tag
   id: SnowyLabs
 
@@ -1481,6 +1482,9 @@
 
 - type: Tag
   id: Taser
+
+- type: Tag
+  id: Telecrystal
 
 - type: Tag
   id: TimerBrigElectronics

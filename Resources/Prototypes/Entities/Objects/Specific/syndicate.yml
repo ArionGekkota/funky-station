@@ -48,6 +48,10 @@
   - type: Currency
     price:
       Telecrystal: 1
+  # Funky Change
+  - type: Tag
+    tags:
+    - Telecrystal
 
 - type: entity
   parent: Telecrystal

@@ -82,6 +82,19 @@
   - type: Storage
     grid:
     - 0,0,4,1
+    whitelist:
+      tags:
+      - Cigarette
+      - Lighter
+      - RollingPaper
+      - CigFilter
+      - Crayon
+      - Pen
+      - Paper
+      - Pill
+      - Cartridge
+      - WeldingTool # Emergency Welding Tool
+      - Telecrystal
   - type: StorageFill
     contents:
     - id: Cigarette

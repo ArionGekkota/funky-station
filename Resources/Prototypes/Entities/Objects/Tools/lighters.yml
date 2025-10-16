@@ -122,6 +122,10 @@
       collection: lighterOnSounds
     endSound:
       collection: lighterOffSounds
+  # Funky Change
+  - type: Tag
+    tags:
+    - Lighter
 
 - type: entity
   name: cheap lighter
@@ -151,6 +155,7 @@
         - ReagentId: WeldingFuel
           Quantity: 4
         maxVol: 4 #uses less fuel than a welder, so this isnt as bad as it looks
+
 
 - type: entity
   name: flippo lighter
@@ -244,6 +249,10 @@
   - type: UseDelay
   - type: IgnitionSource
     ignited: false
+  # Funky Change
+  - type: Tag
+    tags:
+    - Lighter
 
 - type: entity
   name: flippo engraved lighter
@@ -268,3 +277,4 @@
       shader: unshaded
   - type: StealTarget
     stealGroup: FlippoEngravedLighter
+
